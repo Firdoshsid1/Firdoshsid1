@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **DevOps**
 
-- 💬 Ask me about **react, AWS:DevOPs**
+- 💬 Ask me about **react, AWS:DevOps**
 
 - 📫 How to reach me **siddiquefirdosh12@gmail.com**
 
