@@ -5,7 +5,7 @@
 
 - 🔭 I am Md Firdosh, a Full Stack Software Engineer from 🇮🇳   passionate about developing production-ready applications with 1+ years of professional onsite as well as remote working experience. 🎯
 
-I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀**
+I mostly work with Python, MVC Frameworks and **Cloud based technologies.🚀**
 
 
 - 🌱 I’m currently learning **NodeJS, react.JS,DevOPs, MongoDB**
